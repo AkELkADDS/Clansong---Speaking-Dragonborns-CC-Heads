@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d38b29fc-44ab-2017-6de0-aa8241e9ba40"/>
+            <attribute id="Name" type="LSString" value="DGB_NPC_Heads_HUM_Weights_AkELkA"/>
+            <attribute id="UUID" type="LSString" value="eb1c8310-0965-83a6-9cdc-494189cf267b"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
